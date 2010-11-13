@@ -4,14 +4,14 @@
 <dict>
 	<key>content</key>
 	<string>-webkit-border-radius: ${1:5px};
-   -moz-border-radius: $1;
-        border-radius: $1;</string>
+-moz-border-radius: $1;
+border-radius: $1;</string>
 	<key>name</key>
-	<string>-border-radius</string>
+	<string>border-radius</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>-border-radius</string>
+	<string>border-radius</string>
 	<key>uuid</key>
 	<string>264AE7EC-1BFD-4C80-91BD-6EED113FC81D</string>
 </dict>
