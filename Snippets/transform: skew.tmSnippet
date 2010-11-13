@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-transform: skew(${1:x}deg, ${2:y}deg);
+-webkit-transform: skew(${1:x}deg, ${2:y}deg); 
+-o-transform: skew(${1:x}deg, ${2:y}deg);
+transform: skew(${1:x}deg, ${2:y}deg);</string>
+	<key>name</key>
+	<string>transform: skew</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>10A7E2B4-3CED-461A-A18E-974894DA87EC</string>
+</dict>
+</plist>

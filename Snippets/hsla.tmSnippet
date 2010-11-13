@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background: hsla($1, $2%, $3%, 0.$4);</string>
+	<key>name</key>
+	<string>hsla</string>
+	<key>uuid</key>
+	<string>CDC2E201-8D1A-4160-8E7A-A73A282AD967</string>
+</dict>
+</plist>

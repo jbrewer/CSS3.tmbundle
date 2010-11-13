@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-background-clip: text; 
+-webkit-background-clip: text;
+-moz-text-fill-color: transparent;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;</string>
+	<key>name</key>
+	<string>text-clip</string>
+	<key>tabTrigger</key>
+	<string>text-clip</string>
+	<key>uuid</key>
+	<string>D889A3A8-014D-43D1-8F70-60E3A6A50FA2</string>
+</dict>
+</plist>

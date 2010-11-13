@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-column-count: ${1:2}; /* For FireFox */
+-webkit-column-count: ${1:2}; /* For Safari/Chrome */
+column-count: ${1:2}; 
+
+-moz-column-width: ${2:250px}; /* For FireFox */
+-webkit-column-width: ${2:250px}; /* For Safari/Chrome */
+column-width: ${2:250px};
+
+-moz-column-gap: ${3:20px};
+-webkit-column-gap: ${3:20px};
+column-gap: ${3:20px};
+
+-moz-column-rule: ${4:1px solid #000};
+-webkit-column-rule: ${4:1px solid #000};
+column-rule: ${4:1px solid #000};</string>
+	<key>name</key>
+	<string>columns</string>
+	<key>uuid</key>
+	<string>2CEB4B9F-118B-4D8C-83F3-66BD4826FB94</string>
+</dict>
+</plist>

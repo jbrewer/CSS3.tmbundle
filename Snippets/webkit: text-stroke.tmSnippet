@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-text-fill-color: ${1:color};
+-webkit-text-stroke-color: ${2:color};
+-webkit-text-stroke-width: 1px;</string>
+	<key>name</key>
+	<string>webkit: text-stroke</string>
+	<key>uuid</key>
+	<string>A31828F1-C693-46CF-A01D-FA81E962C42D</string>
+</dict>
+</plist>

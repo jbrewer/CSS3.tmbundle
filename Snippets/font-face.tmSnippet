@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@font-face {
+  font-family: '${1:your font-family name}';
+  src: url('${2:font-file-name}.eot');
+  src: local('☺'),
+         url('${2}.woff') format('woff'), url('${2}.ttf') format('truetype'); /* based on Paul Irish's Bulletproof Font-face */
+}</string>
+	<key>name</key>
+	<string>font-face</string>
+	<key>tabTrigger</key>
+	<string>font-face</string>
+	<key>uuid</key>
+	<string>ADD78B02-3D32-4FFF-A430-0B90F67CFC1C</string>
+</dict>
+</plist>
