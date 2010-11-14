@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@-webkit-keyframes ${1:animation-name} {
+  from {
+    ${2:properties}  /* ex: opacity:0; -webkit-transform: scale(1.0) rotate(0deg); */
+  }
+  to {
+    ${3:properties} /* ex: opacity:1; -webkit-transform: scale(1.0) rotate(-5deg); */
+  }
+}</string>
+	<key>name</key>
+	<string>webkit: animation keyframe</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>E4468DD1-592E-4F45-A8A7-A1649BD2EE27</string>
+</dict>
+</plist>

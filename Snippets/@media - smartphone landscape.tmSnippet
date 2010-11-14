@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* Smartphones (landscape)  */
+@media only screen 
+and (min-width : 321px) {
+  $1
+}
+</string>
+	<key>name</key>
+	<string>@media - smartphone landscape</string>
+	<key>tabTrigger</key>
+	<string>@media</string>
+	<key>uuid</key>
+	<string>D35AF9DE-550A-4C27-B976-182B226053FC</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* iPhone 4 */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+  $1
+}</string>
+	<key>name</key>
+	<string>@media - iPhone 4</string>
+	<key>tabTrigger</key>
+	<string>@media</string>
+	<key>uuid</key>
+	<string>E4DFFA9C-BE71-4FA2-BDBB-14D983683CD2</string>
+</dict>
+</plist>

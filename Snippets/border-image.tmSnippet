@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-border-image: url(${1:image-path}) ${2:top-ofset} ${3:right-offset} ${4:bottom-offset} ${5:left-offset} ${6:repeat|stretch|round|space} ${7:repeat|stretch|round|space};
+-webkit-border-image: url($1) $2 $3 $4 $5 $6 $7;
+border-image: url($1) $2 $3 $4 $5 $6 $7;</string>
+	<key>name</key>
+	<string>border-image</string>
+	<key>tabTrigger</key>
+	<string>border-image</string>
+	<key>uuid</key>
+	<string>33ECDD22-27C4-4A8B-A993-4B32A4DE4687</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation: ${1:animation-name} ${2:animation-duration} ${3:animation-timing-function} ${4:animation-delay} ${5:animation-iteration-count} ${6:animation-direction};
+</string>
+	<key>name</key>
+	<string>webkit: animation shorthand</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>E2473E62-B2AC-49B8-9D85-0E85B56B4255</string>
+</dict>
+</plist>

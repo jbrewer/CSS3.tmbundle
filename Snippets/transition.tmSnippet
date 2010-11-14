@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-transition: ${1:all} ${2:0.3s} ${3:ease-out};  /* FF3.7+ */
--o-transition: $1 $2 $3;  /* Opera 10.5 */
--webkit-transition: $1 $2 $3;  /* Saf3.2+, Chrome */
-transition: $1 $2 $3; </string>
+	<string>-moz-transition-property: $1; /* FF3.7+ *
+-o-transition-property: $1; /* Opera 10.5 */
+-webkit-transition-property: $1; /* Saf3.2+, Chrome */
+transition-property: $1;
+-moz-transition-duration: $2; /* FF3.7+ *
+-o-transition-duration: $2; /* Opera 10.5 */
+-webkit-transition-duration: $2;/* Saf3.2+, Chrome */
+transition-duration: $2;
+-moz-transition-timing-function: ${3:default|ease-out|ease-in|ease-in-out|cubic-bezier}; /* FF3.7+ *
+-o-transition-timing-function: ${3:default|ease-out|ease-in|ease-in-out|cubic-bezier}; /* Opera 10.5 */
+-webkit-transition-timing-function: ${3:default|ease-out|ease-in|ease-in-out|cubic-bezier};/* Saf3.2+, Chrome */
+transition-timing-function: ${3:default|ease-out|ease-in|ease-in-out|cubic-bezier};
+
+</string>
 	<key>name</key>
+	<string>transition</string>
+	<key>tabTrigger</key>
 	<string>transition</string>
 	<key>uuid</key>
 	<string>1ED8F859-D6B9-48EA-A9B7-E3313E3E4AD3</string>

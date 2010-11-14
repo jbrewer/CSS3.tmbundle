@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* iPads (portrait and landscape) */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+  $1
+}
+</string>
+	<key>name</key>
+	<string>@media - iPad</string>
+	<key>tabTrigger</key>
+	<string>@media</string>
+	<key>uuid</key>
+	<string>4108C041-5D0F-4E00-ACDA-AAD4EF79835A</string>
+</dict>
+</plist>

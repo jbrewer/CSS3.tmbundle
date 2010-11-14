@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* Grade-A Mobile Browsers (Opera Mobile, iPhone Safari, Android Chrome)  */
+/* Smartphones (portrait and landscape)  */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  $1
+  /* Uncomment if you don't want iOS and WinMobile to mobile-optimize the text for you
+  html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
+}
+
+</string>
+	<key>name</key>
+	<string>@media - smartphone</string>
+	<key>tabTrigger</key>
+	<string>@media</string>
+	<key>uuid</key>
+	<string>FED671E0-7E85-4265-B378-287FADEEB1B8</string>
+</dict>
+</plist>
